@@ -10,9 +10,10 @@
 
 <h2 > Colaboradores </h2>
 
+[ Amanda Brito </p>](https://github.com/AmandaBritoPereira)
+[ Felipe Giacomelli </p>](https://github.com/fegiacomelli)
 [ Tainá Pimenta </p>](https://github.com/TainaPimenta)
 [ Mara Jozicleia </p>](https://github.com/Mara-Jozicleia)
-[ Felipe Giacomelli </p>](https://github.com/fegiacomelli)
 [ Thais Buchevitss </p>](https://github.com/buchevitss)
 [ Wendew Franco </p>](https://github.com/wendewfranco)
 <p align="justify" align="center" ></p>
